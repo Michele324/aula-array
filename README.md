@@ -1,6 +1,5 @@
 # :books: Dicas sobre Arrays em JavaScript
 
-
 Este repositório contém uma coleção de dicas e truques úteis para trabalhar com arrays em JavaScript. Se você é um desenvolvedor JavaScript procurando otimizar sua manipulação de arrays ou está aprendendo sobre os recursos dessa estrutura de dados, este guia será um recurso valioso para você.
 
 ## Por que usar Arrays em JavaScript?
